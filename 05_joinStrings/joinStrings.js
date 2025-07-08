@@ -1,4 +1,13 @@
-/*
+const firstName = "Sani";
+const lastName = "Isma'il";
+const thisYear = 2025;
+const birthYear = 1989;
+const fullName = firstName + " " + lastName;
+const age = thisYear - birthYear;
+
+const greeting = "Hello! My name is " + fullName + "and I am " + age + " years old.";
+
+console.log(greeting);/*
  First name: Carlos
  Last name: Stevenson
  This year: 1965
